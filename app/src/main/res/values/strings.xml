@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AnikTest</string>
+    <string name="customer">customer description</string>
+    <string name="customer_name">customer name</string>
+    <string name="food_name">food title</string>
+    <string name="error_input">not valid</string>
+</resources>
